@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786413652828",
+    "project_id": "learn-phone-authenticati-94023",
+    "storage_bucket": "learn-phone-authenticati-94023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786413652828:android:28e41883b224f725158f99",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3aDlHi-rIdwnR_Jo1M9ILy7h6t22PB6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
